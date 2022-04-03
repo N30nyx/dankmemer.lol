@@ -357,7 +357,7 @@
 	},
 	"pizza": {
 		"name": "Pizza Slice",
-		"image": "https://cdn.discordapp.com/attachments/693517202879414312/788070266579189790/pizza-export2.webp?quality=lossless",
+		"image":"https://cdn.discordapp.com/emojis/940735144849985596.webp?size=56&quality=lossless",
 		"description": "Eat this for a chunky xp multiplier!",
 		"longdescription": "Eating this perfect pizza slice will give you +250% xp gains for an hour.",
 		"id": "pizza",
